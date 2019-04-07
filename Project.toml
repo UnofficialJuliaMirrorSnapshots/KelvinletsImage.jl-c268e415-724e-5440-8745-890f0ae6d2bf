@@ -1,0 +1,14 @@
+name = "KelvinletsImage"
+uuid = "1cf1b01a-e3bb-11e8-1fd5-7188e24523e7"
+authors = ["GuilhermeHaetinger <ghaetinger@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
+TestImages = "5e47fb64-e119-507b-a336-dd2b206d9990"
